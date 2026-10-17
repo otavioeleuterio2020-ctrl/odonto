@@ -1,0 +1,4 @@
+Coloque aqui as fotos reais da clínica (JPG/WebP, ideal 1600px+):
+hero.jpg, trat-estetica.jpg, trat-implantes.jpg, trat-orto.jpg, trat-prevencao.jpg,
+clinica.jpg, g1.jpg ... g5.jpg, equipe1.jpg, equipe2.jpg, equipe3.jpg
+Enquanto não existirem, o site exibe um degradê elegante no lugar.
